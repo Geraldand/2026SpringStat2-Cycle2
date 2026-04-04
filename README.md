@@ -2,7 +2,7 @@
 
 ## 組別與成員 (Group & Members)
 * Group Number: [ 15 ]
-* Members: [ 112370234張智源、 ]
+* Members: [ 112370234張智源、 113370201簡愷毅、 113370218彭鈺芳 ]
 
 ## 資料集 (Dataset)
 * YRBS_2007.csv
