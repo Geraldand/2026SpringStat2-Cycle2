@@ -8,8 +8,8 @@
 * YRBS_2007.csv
 
 ## 選擇變數與基準值 (Selected Variables & Benchmarks)
-* 行為變數 (Behavior Variable): [待小組討論] / 基準值 $p_0$: [待確認]
-* 連續變數 (Continuous Variable): [待小組討論] / 基準值 $\mu_0$: [待確認]
+* 行為變數 (Behavior Variable): [SadOrHopeless] / 基準值 $p_0$: [0.30]
+* 連續變數 (Continuous Variable): [BMIPCT] / 基準值 $\mu_0$: [65.0]
 
 ## 研究問題 (Research Questions)
 * 比例分析問題: [待小組討論]
