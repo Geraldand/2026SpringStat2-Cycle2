@@ -1,0 +1,17 @@
+Sex_Label,CDC_Category,Probability,Sample_Size
+Female,"1. Underweight
+(<5)",0.29292929292929293,99
+Female,"2. Healthy Weight
+(5-84)",0.35632437197003086,4538
+Female,"3. Overweight
+(85-94)",0.39224952741020797,1058
+Female,"4. Obese
+(>=95)",0.4610027855153203,718
+Male,"1. Underweight
+(<5)",0.2331288343558282,163
+Male,"2. Healthy Weight
+(5-84)",0.21976943831248466,4077
+Male,"3. Overweight
+(85-94)",0.22557077625570776,1095
+Male,"4. Obese
+(>=95)",0.23310225303292895,1154
