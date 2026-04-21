@@ -1,0 +1,11 @@
+Through our comprehensive analysis of the YRBS 2007 dataset, we investigated the relationship between adolescents' physical metrics (BMIPCT) and their psychological state (SadOrHopeless).
+
+Our study led to the following key findings:
+EDA Insights: Our exploratory analysis revealed interesting gender-based patterns, particularly the "J-Curve" effect in the Extra EDA, suggesting that both under-weight and over-weight status may be linked to higher psychological distress, with varying intensities between males and females.
+
+Inferential Results: Regarding SadOrHopeless, our sample proportion (\hat{p} \approx 0.298) did not significantly differ from the 0.30 benchmark (p = 0.5891).
+
+Regarding BMIPCT, the sample mean (\bar{x} \approx 64.82) was also statistically consistent with the 65.0 benchmark (p = 0.4789).
+
+Conclusion: In both cases, we failed to reject the null hypothesis (H_0). This indicates that, at a 5% significance level, the adolescents in this dataset do not deviate significantly from the expected national or historical benchmarks for these specific variables. However, the descriptive trends in our EDA suggest that while the "average" remains stable, specific subgroups may still face unique body image pressures that warrant further qualitative investigation.
+
