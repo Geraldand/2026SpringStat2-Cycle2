@@ -1,19 +1,27 @@
-# Project Cycle 2
+# Project Cycle 2: Weight of Expectation
+### Gendered Impacts of Body Image on Adolescent Psychological Well-being
 
-## 組別與成員 (Group & Members)
-* Group Number: [ 15 ]
-* Members: [ 112370234張智源、 113370201簡愷毅、 113370218彭鈺芳 ]
+## Group & Members
+* **Group Number**: 15
+* **Members**: 
+    * 112370234 張智源
+    * 113370201 簡愷毅
+    * 113370218 彭鈺芳
 
-## 資料集 (Dataset)
-* YRBS_2007.csv
+## Dataset
+* `YRBS_2007.csv`
 
-## 選擇變數與基準值 (Selected Variables & Benchmarks)
-* 行為變數 (Behavior Variable): [SadOrHopeless] / 基準值 $p_0$: [0.30]
-* 連續變數 (Continuous Variable): [BMIPCT] / 基準值 $\mu_0$: [65.0]
+## Selected Variables & Benchmarks
+* **Behavior Variable**: `SadOrHopeless`
+    * **Benchmark ($p_0$)**: 0.30
+* **Continuous Variable**: `BMIPCT`
+    * **Benchmark ($\mu_0$)**: 65.0
 
-## 研究問題 (Research Questions)
-* 比例分析問題: [待小組討論]
-* 平均數分析問題: [待小組討論]
+## Research Questions
+* **Proportion Analysis**: Does the proportion of adolescents feeling sad or hopeless significantly differ from the 0.30 (30%) national benchmark?
+* **Mean Analysis**: Does the average BMI percentile (BMIPCT) of the adolescents significantly differ from the 65.0 benchmark?
 
-## 最終結論 (Final Conclusion)
-* [分析完成後填寫]
+## Final Conclusion
+At a 5% significance level, we **failed to reject the null hypothesis ($H_0$)** for both variables. This indicates that the overall sample data does not deviate significantly from the expected benchmarks (0.30 and 65.0). 
+
+However, our advanced Exploratory Data Analysis (EDA) revealed a clear **"J-Curve" effect**. While the overall population averages remain stable, female students with extreme body weights—particularly those in the "Underweight" category—experience a significantly higher probability of depression. This highlights the unique body image pressures faced by specific subgroups, a critical insight that is masked when only looking at the overall population mean.
