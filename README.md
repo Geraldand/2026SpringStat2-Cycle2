@@ -24,4 +24,4 @@
 ## Final Conclusion
 At a 5% significance level, we **failed to reject the null hypothesis ($H_0$)** for both variables. This indicates that the overall sample data does not deviate significantly from the expected benchmarks (0.30 and 65.0). 
 
-However, our advanced Exploratory Data Analysis (EDA) revealed a clear **"J-Curve" effect**. While the overall population averages remain stable, female students with extreme body weights—particularly those in the "Underweight" category—experience a significantly higher probability of depression. This highlights the unique body image pressures faced by specific subgroups, a critical insight that is masked when only looking at the overall population mean.
+However, our advanced Exploratory Data Analysis (EDA) revealed a clear **"J-Curve" effect**. While the overall population averages remain stable, female students with extreme body weights particularly those in the "Underweight" category experience a significantly higher probability of depression. This highlights the unique body image pressures faced by specific subgroups, a critical insight that is masked when only looking at the overall population mean.
