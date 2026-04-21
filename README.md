@@ -4,9 +4,9 @@
 ## Group & Members
 * **Group Number**: 15
 * **Members**: 
-    * 112370234 張智源
+    * 112370234 張智源 (Geraldand)
     * 113370201 簡愷毅 (kaibao8171)
-    * 113370218 彭鈺芳
+    * 113370218 彭鈺芳 (Vickyfang77)
 
 ## Dataset
 * `YRBS_2007.csv`
