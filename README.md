@@ -9,8 +9,11 @@
     * 113370218 彭鈺芳 (Vickyfang77)
 
 ## Dataset
+raw data:
 * `YRBS_2007.csv`
-
+processed data:
+* `yrbs_cleaned.csv`
+  
 ## Selected Variables & Benchmarks
 * **Behavior Variable**: `SadOrHopeless`
     * **Benchmark ($p_0$)**: 0.30
